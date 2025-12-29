@@ -12,9 +12,9 @@ This repository curates the public-facing story of **Provabook**, a textile oper
 ---
 
 ## 2. Screens & Visuals
-| Dashboard & Navigation | Samples Workspace | Local Orders Board |
+| Dashboard & Navigation | Orders Workspace | Notifications Board |
 | --- | --- | --- |
-| ![Dashboard](images/Screenshot%202025-12-20%20214058.jpg) | ![Samples](images/Screenshot%202025-12-20%20214151.jpg) | ![Local Orders](images/Screenshot%202025-12-20%20214210.jpg) |
+| ![Dashboard](images/Screenshot%202025-12-20%20214058.jpg) | ![Orders](images/Screenshot%202025-12-20%20214151.jpg) | ![Notifications](images/Screenshot%202025-12-20%20214210.jpg) |
 
 ---
 
